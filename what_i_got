@@ -1,0 +1,3496 @@
+/usr/local/bin/python /Users/deniz/PycharmProjects/pythonProject/cut_my_life_into_pieces.py /Users/deniz/Desktop/i1.txt nolur_output.txt
+['', '', '', '', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['H', 'B', '', '', '', '', '', '', '', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 2
+['H', 'B', '', '', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', '', '', '', '', '', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 4
+['H', 'B', 'H', 'B', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', '', '', '', 'H', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['H', 'B', 'H', 'B', 'B', '', '', '', 'H', '', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'H', '', '', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'H', 'B', 'B', 'H', '', '', 'H', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[2, 2, 2], [2, 2, 2], [2, 1, 2, 1], [1, 2, 1, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 2, 1], [2, 2, 1], [2, 1, 1, 1], [1, 2, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['H', 'B', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 2], [2, 1, 2], [2, 1, 2, 0], [1, 2, 0, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 1], [2, 1, 1], [2, 1, 1, 0], [1, 2, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 5
+['H', 'B', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'N', '', '', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'H', 'B', 'B', 'N', '', '', 'H', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 2], [2, 2, 1], [2, 0, 2, 1], [1, 1, 1, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 1], [2, 2, 0], [2, 0, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['H', 'B', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 2], [2, 1, 1], [2, 0, 2, 0], [1, 1, 0, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 2], [2, 1, 1], [2, 0, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'B', 'H']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 1], [2, 1, 0], [2, 0, 1, 0], [1, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 4
+['H', 'B', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', '', '', '', 'N', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['H', 'B', 'H', 'B', 'N', '', '', '', 'N', '', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'H', '', '', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'H', 'B', 'N', 'H', '', '', 'N', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[2, 2, 1], [2, 1, 2], [1, 1, 2, 1], [0, 2, 1, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 2, 0], [2, 1, 1], [1, 1, 1, 1], [0, 2, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['H', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 1], [2, 0, 2], [1, 1, 2, 0], [0, 2, 0, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 0], [2, 0, 1], [1, 1, 1, 0], [0, 2, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 5
+['H', 'B', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'N', '', '', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'H', 'B', 'N', 'N', '', '', 'N', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 1], [2, 1, 1], [1, 0, 2, 1], [0, 1, 1, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 0], [2, 1, 0], [1, 0, 1, 1], [0, 1, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 1], [2, 0, 1], [1, 0, 2, 0], [0, 1, 0, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 1], [2, 0, 1], [1, 0, 1, 1], [0, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 0], [2, 0, 0], [1, 0, 1, 0], [0, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 4
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 2
+['H', 'B', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'N', 'N', '', '', '', '', '', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 4
+['H', 'B', 'N', 'N', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', '', '', '', 'H', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['H', 'B', 'N', 'N', 'B', '', '', '', 'H', '', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'H', '', '', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'N', 'N', 'B', 'H', '', '', 'H', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 2], [1, 2, 2], [2, 1, 1, 1], [1, 2, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 1], [1, 2, 1], [2, 1, 0, 1], [1, 2, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['H', 'B', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 1, 2], [2, 1, 1, 0], [1, 2, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [2, 1, 0, 0], [1, 2, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 5
+['H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', '', '', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'N', 'N', 'B', 'N', '', '', 'H', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 2, 1], [2, 0, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'H']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 2, 0], [2, 0, 1, 0], [1, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['H', 'B', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 2, 1], [2, 0, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 2, 0], [2, 0, 0, 1], [1, 1, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['H', 'B', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 2], [1, 1, 1], [2, 0, 1, 0], [1, 1, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 2], [1, 1, 1], [2, 0, 0, 1], [1, 1, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'B', 'H']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 1, 0], [2, 0, 0, 0], [1, 1, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 4
+['H', 'B', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', '', '', '', 'N', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['H', 'B', 'N', 'N', 'N', '', '', '', 'N', '', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'H', '', '', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'N', 'N', 'N', 'H', '', '', 'N', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 1], [1, 1, 2], [1, 1, 1, 1], [0, 2, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 0], [1, 1, 1], [1, 1, 0, 1], [0, 2, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['H', 'B', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 0, 2], [1, 1, 1, 0], [0, 2, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 0, 1], [1, 1, 0, 0], [0, 2, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 5
+['H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', '', '', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'N', 'N', 'N', 'N', '', '', 'N', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [1, 0, 1, 1], [0, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 1, 0], [1, 0, 1, 0], [0, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['H', 'B', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [1, 0, 1, 1], [0, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 1, 0], [1, 0, 0, 1], [0, 1, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['H', 'B', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 0, 1], [1, 0, 1, 0], [0, 1, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 0, 1], [1, 0, 0, 1], [0, 1, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 0], [1, 0, 0], [1, 0, 0, 0], [0, 1, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 4
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 2
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 0
+['H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['B', 'H', '', '', '', '', '', '', '', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 2
+['B', 'H', '', '', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', '', '', '', '', '', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 4
+['B', 'H', 'B', 'H', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', '', '', '', 'B', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['B', 'H', 'B', 'H', 'H', '', '', '', 'B', '', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'B', '', '', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'B', 'H', 'H', 'B', '', '', 'B', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[2, 2, 2], [2, 2, 2], [1, 2, 1, 2], [2, 1, 2, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 2, 1], [2, 2, 1], [1, 2, 1, 1], [2, 1, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['B', 'H', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 2], [2, 1, 2], [1, 2, 0, 2], [2, 1, 2, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 1], [2, 1, 1], [1, 2, 0, 1], [2, 1, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['N'] for 5
+['B', 'H', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'N', '', '', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'B', 'H', 'H', 'N', '', '', 'B', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[2, 2, 1], [2, 1, 2], [1, 1, 1, 2], [2, 0, 2, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 2, 0], [2, 1, 1], [1, 1, 1, 1], [2, 0, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['B', 'H', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 1], [2, 0, 2], [1, 1, 1, 1], [2, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'H', 'B']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 1], [2, 0, 2], [1, 1, 0, 2], [2, 0, 2, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 0], [2, 0, 1], [1, 1, 0, 1], [2, 0, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 4
+['B', 'H', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', '', '', '', 'N', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['B', 'H', 'B', 'H', 'N', '', '', '', 'N', '', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'B', '', '', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'B', 'H', 'N', 'B', '', '', 'N', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 2], [2, 2, 1], [0, 2, 1, 2], [1, 1, 2, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 1], [2, 2, 0], [0, 2, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['B', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 2], [2, 1, 1], [0, 2, 0, 2], [1, 1, 2, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 1], [2, 1, 0], [0, 2, 0, 1], [1, 1, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['N'] for 5
+['B', 'H', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'N', '', '', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'B', 'H', 'N', 'N', '', '', 'N', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 1], [2, 1, 1], [0, 1, 1, 2], [1, 0, 2, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 1, 0], [2, 1, 0], [0, 1, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 1], [2, 0, 1], [0, 1, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 1], [2, 0, 1], [0, 1, 0, 2], [1, 0, 2, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[2, 0, 0], [2, 0, 0], [0, 1, 0, 1], [1, 0, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 4
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 2
+['B', 'H', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'N', 'N', '', '', '', '', '', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 4
+['B', 'H', 'N', 'N', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', '', '', '', 'B', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['B', 'H', 'N', 'N', 'H', '', '', '', 'B', '', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'B', '', '', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'N', 'N', 'H', 'B', '', '', 'B', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 2], [1, 2, 2], [1, 2, 1, 1], [2, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 1], [1, 2, 1], [1, 2, 1, 0], [2, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['B', 'H', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 1, 2], [1, 2, 0, 1], [2, 1, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [1, 2, 0, 0], [2, 1, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['N'] for 5
+['B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', '', '', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'N', 'N', 'H', 'N', '', '', 'B', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 1], [1, 1, 2], [1, 1, 1, 1], [2, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 0], [1, 1, 1], [1, 1, 1, 0], [2, 0, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['B', 'H', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 1], [1, 1, 2], [1, 1, 1, 1], [2, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['B', 'H', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'B']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 0], [1, 1, 1], [1, 1, 0, 1], [2, 0, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['B', 'H', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 0, 2], [1, 1, 1, 0], [2, 0, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'H', 'B']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 0, 2], [1, 1, 0, 1], [2, 0, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 0, 1], [1, 1, 0, 0], [2, 0, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 4
+['B', 'H', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', '', '', '', 'N', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['B', 'H', 'N', 'N', 'N', '', '', '', 'N', '', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'B', '', '', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'N', 'N', 'N', 'B', '', '', 'N', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 2, 1], [0, 2, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 2, 0], [0, 2, 1, 0], [1, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['B', 'H', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 2], [1, 1, 1], [0, 2, 0, 1], [1, 1, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 1, 0], [0, 2, 0, 0], [1, 1, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['N'] for 5
+['B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', '', '', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'N', 'N', 'N', 'N', '', '', 'N', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [0, 1, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 1, 0], [0, 1, 1, 0], [1, 0, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['B', 'H', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [0, 1, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['B', 'H', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 1, 0], [0, 1, 0, 1], [1, 0, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['B', 'H', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 0, 1], [0, 1, 1, 0], [1, 0, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 0, 1], [0, 1, 0, 1], [1, 0, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 0], [1, 0, 0], [0, 1, 0, 0], [1, 0, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 4
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 2
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 0
+['B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', '', '', '', '', '', '', '', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 2
+['N', 'N', '', '', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', '', '', '', '', '', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 4
+['N', 'N', 'H', 'B', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', '', '', '', 'B', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'H', 'B', 'H', '', '', '', 'B', '', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'B', '', '', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'H', 'B', '', '', 'B', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 1, 2], [1, 1, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [1, 1, 1, 0], [1, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['N'] for 5
+['N', 'N', 'H', 'B', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'N', '', '', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'H', 'N', '', '', 'B', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 1], [1, 1, 2], [1, 0, 2, 1], [1, 0, 1, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 0], [1, 1, 1], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 0, 2], [1, 0, 2, 0], [1, 0, 0, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 0, 2], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 0, 1], [1, 0, 1, 0], [1, 0, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 4
+['N', 'N', 'H', 'B', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', '', '', '', 'H', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'H', 'B', 'B', '', '', '', 'H', '', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'H', '', '', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'B', 'H', '', '', 'H', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 2], [1, 2, 2], [1, 1, 2, 1], [1, 1, 1, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 1], [1, 2, 1], [1, 1, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['N', 'N', 'H', 'B', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 1, 2], [1, 1, 2, 0], [1, 1, 0, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [1, 1, 1, 0], [1, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 5
+['N', 'N', 'H', 'B', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'N', '', '', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'B', 'N', '', '', 'H', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 2, 1], [1, 0, 2, 1], [1, 0, 1, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 2, 0], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['N', 'N', 'H', 'B', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 2], [1, 1, 1], [1, 0, 2, 0], [1, 0, 0, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 2], [1, 1, 1], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 1, 0], [1, 0, 1, 0], [1, 0, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 4
+['N', 'N', 'H', 'B', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', '', '', '', 'N', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'H', 'B', 'N', '', '', '', 'N', '', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'H', '', '', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'N', 'H', '', '', 'N', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 1], [1, 1, 2], [0, 1, 2, 1], [0, 1, 1, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 0], [1, 1, 1], [0, 1, 1, 1], [0, 1, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['N', 'N', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 0, 2], [0, 1, 2, 0], [0, 1, 0, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 0, 1], [0, 1, 1, 0], [0, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 5
+['N', 'N', 'H', 'B', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'B', '', '', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'N', 'B', '', '', 'N', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'B', 'N', 'N', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'N', 'B', 'N', 'N', 'N', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'B', 'N', 'N', 'N', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 2], [1, 1, 1], [0, 1, 1, 1], [0, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'N', 'B', 'N', 'N', 'N', 'H', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 1, 0], [0, 1, 1, 0], [0, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['N'] for 5
+['N', 'N', 'H', 'B', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'N', '', '', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'N', 'N', '', '', 'N', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [0, 0, 2, 1], [0, 0, 1, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 1, 0], [0, 0, 1, 1], [0, 0, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 0, 1], [0, 0, 2, 0], [0, 0, 0, 2]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 0, 1], [0, 0, 1, 1], [0, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 0], [1, 0, 0], [0, 0, 1, 0], [0, 0, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 4
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 2
+['N', 'N', 'H', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', '', '', '', '', '', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 4
+['N', 'N', 'B', 'H', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', '', '', '', 'B', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'B', 'H', 'H', '', '', '', 'B', '', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'B', '', '', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'H', 'B', '', '', 'B', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 2], [1, 2, 2], [1, 1, 1, 2], [1, 1, 2, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 1], [1, 2, 1], [1, 1, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['N', 'N', 'B', 'H', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 1, 2], [1, 1, 0, 2], [1, 1, 2, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [1, 1, 0, 1], [1, 1, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['N'] for 5
+['N', 'N', 'B', 'H', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'N', '', '', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'H', 'N', '', '', 'B', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 1], [1, 1, 2], [1, 0, 1, 2], [1, 0, 2, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 2, 0], [1, 1, 1], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['N', 'N', 'B', 'H', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 0, 2], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 0, 2], [1, 0, 0, 2], [1, 0, 2, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 0, 1], [1, 0, 0, 1], [1, 0, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 4
+['N', 'N', 'B', 'H', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', '', '', '', 'H', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'B', 'H', 'B', '', '', '', 'H', '', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'H', '', '', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'B', 'H', '', '', 'H', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 1, 2], [1, 1, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [1, 1, 0, 1], [1, 1, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 5
+['N', 'N', 'B', 'H', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'N', '', '', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'B', 'N', '', '', 'H', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 2, 1], [1, 0, 1, 2], [1, 0, 2, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 2, 0], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 2], [1, 1, 1], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 2], [1, 1, 1], [1, 0, 0, 2], [1, 0, 2, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 1, 0], [1, 0, 0, 1], [1, 0, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 4
+['N', 'N', 'B', 'H', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', '', '', '', 'N', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'B', 'H', 'N', '', '', '', 'N', '', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'H', '', '', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'N', 'H', '', '', 'N', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'H', 'N', 'N', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'N', 'H', 'N', 'N', 'N', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'H', 'N', 'N', 'N', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 0, 2], [0, 1, 1, 1], [0, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'B', 'H', 'N', 'H', 'N', 'N', 'N', 'B', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 0, 1], [0, 1, 0, 1], [0, 1, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 5
+['N', 'N', 'B', 'H', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'B', '', '', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'N', 'B', '', '', 'N', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 2], [1, 2, 1], [0, 1, 1, 2], [0, 1, 2, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 2, 0], [0, 1, 1, 1], [0, 1, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['N', 'N', 'B', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 2], [1, 1, 1], [0, 1, 0, 2], [0, 1, 2, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 1, 0], [0, 1, 0, 1], [0, 1, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['N'] for 5
+['N', 'N', 'B', 'H', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'N', '', '', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'N', 'N', '', '', 'N', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 1], [1, 1, 1], [0, 0, 1, 2], [0, 0, 2, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 1, 0], [1, 1, 0], [0, 0, 1, 1], [0, 0, 1, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 0, 1], [0, 0, 1, 1], [0, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 1], [1, 0, 1], [0, 0, 0, 2], [0, 0, 2, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[1, 0, 0], [1, 0, 0], [0, 0, 0, 1], [0, 0, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 4
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 2
+['N', 'N', 'B', 'H', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', '', '', '', '', '', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 4
+['N', 'N', 'N', 'N', '', '', '', '', '', '', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', '', '', '', 'B', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'N', 'N', 'H', '', '', '', 'B', '', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'B', '', '', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'H', 'B', '', '', 'B', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[0, 2, 2], [0, 2, 2], [1, 1, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 2, 1], [0, 2, 1], [1, 1, 1, 0], [1, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['N', 'N', 'N', 'N', 'H', 'B', 'H', 'B', 'B', 'H', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 2], [0, 1, 2], [1, 1, 0, 1], [1, 1, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 1], [0, 1, 1], [1, 1, 0, 0], [1, 1, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+A olasılık listesi: ['N'] for 5
+['N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', '', '', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'H', 'N', '', '', 'B', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[0, 2, 1], [0, 1, 2], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 2, 0], [0, 1, 1], [1, 0, 1, 0], [1, 0, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['N', 'N', 'N', 'N', 'H', 'N', 'H', 'B', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[0, 2, 1], [0, 1, 2], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 2, 0], [0, 1, 1], [1, 0, 0, 1], [1, 0, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['N', 'N', 'N', 'N', 'H', 'N', 'B', 'H', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 1], [0, 0, 2], [1, 0, 1, 0], [1, 0, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 1], [0, 0, 2], [1, 0, 0, 1], [1, 0, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 0], [0, 0, 1], [1, 0, 0, 0], [1, 0, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 4
+['N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', '', '', '', 'H', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'N', 'N', 'B', '', '', '', 'H', '', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'H', '', '', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'B', 'H', '', '', 'H', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[0, 2, 2], [0, 2, 2], [1, 1, 1, 1], [1, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 2, 1], [0, 2, 1], [1, 1, 0, 1], [1, 1, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['N', 'N', 'N', 'N', 'B', 'H', 'B', 'H', 'H', 'B', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 2], [0, 1, 2], [1, 1, 1, 0], [1, 1, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 1], [0, 1, 1], [1, 1, 0, 0], [1, 1, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 5
+['N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', '', '', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'B', 'N', '', '', 'H', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 2], [0, 2, 1], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 1], [0, 2, 0], [1, 0, 1, 0], [1, 0, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['N', 'N', 'N', 'N', 'B', 'N', 'H', 'B', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 2], [0, 2, 1], [1, 0, 1, 1], [1, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 1], [0, 2, 0], [1, 0, 0, 1], [1, 0, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['N', 'N', 'N', 'N', 'B', 'N', 'B', 'H', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[0, 0, 2], [0, 1, 1], [1, 0, 1, 0], [1, 0, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[0, 0, 2], [0, 1, 1], [1, 0, 0, 1], [1, 0, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 0, 1], [0, 1, 0], [1, 0, 0, 0], [1, 0, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 4
+['N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', '', '', '', 'N', '', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'N', 'N', 'N', '', '', '', 'N', '', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'H', '', '', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'N', 'H', '', '', 'N', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[0, 2, 1], [0, 1, 2], [0, 1, 1, 1], [0, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 2, 0], [0, 1, 1], [0, 1, 0, 1], [0, 1, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['N', 'N', 'N', 'N', 'N', 'H', 'B', 'H', 'N', 'B', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 1], [0, 0, 2], [0, 1, 1, 0], [0, 1, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 0], [0, 0, 1], [0, 1, 0, 0], [0, 1, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 5
+['N', 'N', 'N', 'N', 'N', 'H', 'N', 'N', 'N', 'B', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'B', '', '', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'N', 'B', '', '', 'N', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 2], [0, 2, 1], [0, 1, 1, 1], [0, 1, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 1], [0, 2, 0], [0, 1, 1, 0], [0, 1, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['N', 'N', 'N', 'N', 'N', 'B', 'H', 'B', 'N', 'H', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[0, 0, 2], [0, 1, 1], [0, 1, 0, 1], [0, 1, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 0, 1], [0, 1, 0], [0, 1, 0, 0], [0, 1, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+A olasılık listesi: ['N'] for 5
+['N', 'N', 'N', 'N', 'N', 'B', 'N', 'N', 'N', 'H', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', '', '', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'N', 'N', '', '', 'N', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 0], [0, 1, 0], [0, 0, 1, 0], [0, 0, 0, 1]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['B', 'N'] for 6
+['N', 'N', 'N', 'N', 'N', 'N', 'H', 'B', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 1], [0, 1, 1], [0, 0, 1, 1], [0, 0, 1, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 1, 0], [0, 1, 0], [0, 0, 0, 1], [0, 0, 1, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['N'] for 6
+['N', 'N', 'N', 'N', 'N', 'N', 'B', 'H', 'N', 'N', 'N', 'N']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+D olasılık listesi: ['H', 'B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', '', '']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+
+check if it fits!
+current template const list:
+[[0, 0, 1], [0, 0, 1], [0, 0, 1, 0], [0, 0, 0, 1]]
+it doesn't fit
+
+
+C olasılık listesi: ['B', 'N'] for 10
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'H', 'B']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+
+check if it fits!
+current template const list:
+[[0, 0, 1], [0, 0, 1], [0, 0, 0, 1], [0, 0, 1, 0]]
+it doesn't fit
+
+
+C olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'B', 'H']
+
+i placed a tile!
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+
+check if it fits!
+current template const list:
+[[0, 0, 0], [0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+it doesn't fit
+
+
+B olasılık listesi: ['N'] for 10
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 6
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 5
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 4
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 2
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+A olasılık listesi: ['H', 'B', 'N'] for 0
+['N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
+
+Process finished with exit code 0
